@@ -1,0 +1,20 @@
+#general {
+    background-color: #f8e9f2;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    padding-top:20px;
+   
+
+}
+
+h3 {
+    text-align: center;
+    margin-top: 60px;
+}
