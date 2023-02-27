@@ -1,5 +1,9 @@
 body {
     background-color: #f8e9f2;
+    @media (min-width: 768px) {
+.bd-placeholder-img-lg {
+  font-size: 3.5rem;
+}
 }
 
 .home {
